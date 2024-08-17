@@ -1,4 +1,4 @@
-# DUOS
+# DUOS Beta
 
 ## Overview
 
