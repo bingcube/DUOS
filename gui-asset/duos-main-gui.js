@@ -1,10 +1,10 @@
 // ==UserScript==
-// @name         Duolingo OS
+// @name         DUOS
 // @namespace    http://tampermonkey.net/
-// @version      1.5
+// @version      BETA 0.0.1
 // @description  DUOS
 // @author       Sky @blurskydev
-// @match        https://preview.duolingo.com/*
+// @match        *://*/*
 // @grant        none
 // ==/UserScript==
 
