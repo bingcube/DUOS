@@ -22,3 +22,5 @@ This repository contains a template for a Duolingo-style GUI that mimics the mac
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
+
+Coming soon
