@@ -1,5 +1,7 @@
 # DUOS Beta
 
+![Duolingo Love Icon](https://raw.githubusercontent.com/blurskydev/DUOS/main/gui-asset/duolingo-love-icon.png)
+
 ## Overview
 
 This repository contains a template for a Duolingo-style GUI that mimics the macOS aesthetic. It's designed for use with Tampermonkey, a popular userscript manager. The template provides a visually appealing macOS-like interface for Duolingo's website.
@@ -22,5 +24,3 @@ This repository contains a template for a Duolingo-style GUI that mimics the mac
 
    ```bash
    git clone https://github.com/your-username/your-repository.git
-
-Coming soon
