@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>1.1</title>
+    <link rel="icon" href="https://ourcloud2.vercel.app/asset/cube.png" type="image/png">
+    <style>
+        body, html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            background-color: black;
+        }
+
+        .container {
+            position: relative;
+            cursor: pointer;
+        }
+
+        .animated-image {
+            width: 300px;
+            transition: transform 0.5s ease, filter 0.5s ease;
+        }
+
+        .container:hover .animated-image {
+            transform: scale(1.1);
+            filter: brightness(1.2);
+        }
+
+        .animated-image:active {
+            transform: scale(0.9);
+            filter: brightness(1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container" onclick="openLinks()">
+        <img src="https://ourcloud2.vercel.app/asset/1.1.png" alt="Image" class="animated-image">
+    </div>
+
+    <script>
+        function openLinks() {
+            window.open('https://greasyfork.org/en/scripts/506527-duolingo-account-manager', '_blank');
+            window.open('https://github.com/Cube-House/DuolingoAccountManager', '_blank');
+        }
+    </script>
+</body>
+</html>
