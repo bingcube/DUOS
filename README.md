@@ -1,6 +1,6 @@
 # DUOS Beta
 
-![Duolingo Love Icon](https://raw.githubusercontent.com/blurskydev/DUOS/main/gui-asset/duolingo-love-icon.png)
+# My Assets
 
 ## Overview
 
